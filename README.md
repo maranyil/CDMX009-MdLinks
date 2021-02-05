@@ -1,7 +1,5 @@
 # Markdown Links
 
-## Preámbulo
-
 [Markdown](https://en.wikipedia.org/wiki/Markdown) it's a lightweight language, popular among developers. Used in many platforms that use
 plain text (as GitHub, forums, blogs, etc). These markdown files, usually contains broken
 or invalid _links_ and that affects the value of the information or the original purpose
